@@ -1,6 +1,6 @@
 # Teoría Informática
 
-Este repositorio contiene ejemplos de código y recursos relacionados con teoría informática.
+Este repositorio contiene ejemplos de código y recursos relacionados con teoría informática para la clase del 1CV11.
 
 ## Contenido
 
